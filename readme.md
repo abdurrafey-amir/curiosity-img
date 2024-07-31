@@ -1,0 +1,2 @@
+# Curiosity Rover Image Fetcher
+python program that uses nasa's api to fetch images from the curiosity mars rover. Add your api_key to your .env file (or you can use nasa's demo key by setting your api key to `DEMO_KEY`). Image can be fetched by typing `py main.py {file_name.txt} {date(YYYY-MM-DD)}`
